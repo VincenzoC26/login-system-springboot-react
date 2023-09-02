@@ -30,6 +30,12 @@ To get started with this project, follow these steps:
 
 4. Open your web browser and access the application at http://localhost:3000
 
+5.Login Page
+
+   ![Screenshot 2023-09-02 120351](https://github.com/VincenzoC26/login-system-springboot-react/assets/102054660/5f5c3697-f446-4a50-b042-6225f3e9e7af)
+
+6. Registration Page
+
+   ![Screenshot 2023-09-02 120406](https://github.com/VincenzoC26/login-system-springboot-react/assets/102054660/dc4de3d2-534b-40ba-8145-8ad92f92316d)
 
 
-   
