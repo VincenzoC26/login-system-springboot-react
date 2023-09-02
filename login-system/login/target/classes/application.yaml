@@ -1,0 +1,21 @@
+server:
+  port: 9090
+  error:
+    include-message: always
+
+spring:
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/app
+    username: postgres
+    password: vincenzo26PW*
+    driverClassName: org.postgresql.Driver
+    webmvc:
+      cors:
+        allowed-origins: "http://localhost:3000"
+
