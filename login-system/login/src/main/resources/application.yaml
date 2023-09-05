@@ -13,7 +13,7 @@ spring:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/app
     username: postgres
-    password: vincenzo26PW*
+    password: *********
     driverClassName: org.postgresql.Driver
     webmvc:
       cors:
